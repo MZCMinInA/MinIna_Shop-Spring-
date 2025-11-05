@@ -1,1 +1,2 @@
-# MinIna_Shop-Spring-
+# MinIna_Shop-Spring
+# 열심히 해보자!
